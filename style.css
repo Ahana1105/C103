@@ -22,15 +22,15 @@ p {
 }
 
 #camera {
-    border : 5px ridge black;
-    width : 350px;
-    height : 300px;
+
+    width : 360px;
+    height : 200px;
 }
 
 #result {
     border : 5px ridge black;
-    width : 350px;
-    height : 300px;
+    width : 360px;
+    height : 310px;
 }
 
 #name_object {
